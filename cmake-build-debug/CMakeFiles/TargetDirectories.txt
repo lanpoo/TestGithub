@@ -1,0 +1,3 @@
+Z:/Cpp/study/cmake-build-debug/CMakeFiles/study.dir
+Z:/Cpp/study/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Cpp/study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
