@@ -10,7 +10,7 @@ public:
 };
 int main()
 {
-    cout << "insert:" << endl;
+    cout << "i have changed my project:" << endl;
     set<testDemo> s1;
     testDemo t1(1, "wjh");
     s1.insert(t1);
